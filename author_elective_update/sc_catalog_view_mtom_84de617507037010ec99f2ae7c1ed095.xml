@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog_view_mtom">
+    <sc_catalog_view_mtom action="DELETE">
+        <default>true</default>
+        <sc_catalog display_value="Sandwiches">4cbe61b107037010ec99f2ae7c1ed02b</sc_catalog>
+        <sys_class_name>sc_catalog_view_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-07 21:13:47</sys_created_on>
+        <sys_id>84de617507037010ec99f2ae7c1ed095</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sandwiches.catalog_sandwiches</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_portal_page display_value="catalog_sandwiches">0cde617507037010ec99f2ae7c1ed093</sys_portal_page>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sc_catalog_view_mtom_84de617507037010ec99f2ae7c1ed095</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-07 21:13:47</sys_updated_on>
+    </sc_catalog_view_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>9aa94794db32130052e3f70fbf9619ac</instance_id>
+        <instance_name>dev61555</instance_name>
+        <name>sc_catalog_view_mtom_84de617507037010ec99f2ae7c1ed095</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog_view_mtom"><sc_catalog_view_mtom action="INSERT_OR_UPDATE"><default>true</default><sc_catalog display_value="Sandwiches">4cbe61b107037010ec99f2ae7c1ed02b</sc_catalog><sys_class_name>sc_catalog_view_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-10-07 21:13:47</sys_created_on><sys_id>84de617507037010ec99f2ae7c1ed095</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Sandwiches.catalog_sandwiches</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_portal_page display_value="catalog_sandwiches">0cde617507037010ec99f2ae7c1ed093</sys_portal_page><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sc_catalog_view_mtom_84de617507037010ec99f2ae7c1ed095</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-10-07 21:13:47</sys_updated_on></sc_catalog_view_mtom></record_update>]]></payload>
+        <payload_hash>-704613663</payload_hash>
+        <record_name>Sandwiches.catalog_sandwiches</record_name>
+        <reverted_from/>
+        <source>f2624d2507c33010ec99f2ae7c1ed0d5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-07 21:13:48</sys_created_on>
+        <sys_id>c4dea97507037010ec99f2ae7c1ed0df</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17c5c9ae7a30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-07 21:13:48</sys_updated_on>
+        <type>Catalog Portal Page</type>
+        <update_guid>00dea9758b03701061afb152a3cadbdf</update_guid>
+        <update_guid_history>00dea9758b03701061afb152a3cadbdf:-704613663</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Sandwiches.catalog_sandwiches">30fe2d7507037010ec99f2ae7c1ed067</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-07 21:14:23</sys_created_on>
+        <sys_db_object display_value="" name="sc_catalog_view_mtom">sc_catalog_view_mtom</sys_db_object>
+        <sys_id>3c1399fcefc24de6908e3432ec730c29</sys_id>
+        <sys_metadata>84de617507037010ec99f2ae7c1ed095</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sandwiches.catalog_sandwiches</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sc_catalog_view_mtom_84de617507037010ec99f2ae7c1ed095</sys_update_name>
+        <sys_update_version display_value="sc_catalog_view_mtom_84de617507037010ec99f2ae7c1ed095">c4dea97507037010ec99f2ae7c1ed0df</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-07 21:14:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
