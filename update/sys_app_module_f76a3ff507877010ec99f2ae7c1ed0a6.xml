@@ -7,7 +7,7 @@
         <filter table="sc_request">x_58872_needit_needISNOTEMPTY^EQ<item endquery="false" field="x_58872_needit_need" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </filter>
-        <hint/>
+        <hint>All outstanding sandwich orders</hint>
         <homepage/>
         <image/>
         <link_type>LIST</link_type>
@@ -15,7 +15,7 @@
         <mobile_title>orders</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>sc_request</name>
-        <order>600</order>
+        <order>400</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
@@ -26,17 +26,17 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>f76a3ff507877010ec99f2ae7c1ed0a6</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>sandy orders</sys_name>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Sandy Orders</sys_name>
         <sys_overrides/>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>sys_app_module_f76a3ff507877010ec99f2ae7c1ed0a6</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-10-08 07:25:08</sys_updated_on>
+        <sys_updated_on>2021-10-08 19:47:00</sys_updated_on>
         <timeline_page/>
-        <title>sandy orders</title>
+        <title>Sandy Orders</title>
         <uncancelable>false</uncancelable>
         <view_name>sandy needs</view_name>
         <window_name/>

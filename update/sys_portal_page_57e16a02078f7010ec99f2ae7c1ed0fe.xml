@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2021-10-08 19:49:45">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout display_value="layout_3_across_only">4127db33d7111100f2d224837e610336</layout>
+        <order/>
+        <read_roles/>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-08 19:35:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>57e16a02078f7010ec99f2ae7c1ed0fe</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>PA Sandwicher! - New Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_portal_page_57e16a02078f7010ec99f2ae7c1ed0fe</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-08 19:35:36</sys_updated_on>
+        <title>PA Sandwicher! - New Tab</title>
+        <user/>
+        <view>pa_sandwicher!_-_new_tab</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Sandwicher! - New Tab">57e16a02078f7010ec99f2ae7c1ed0fe</page>
+                <summary>Essential goods [Sandwicher]</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2021-10-08 19:36:46</sys_created_on>
+                <sys_id>ec32aa02078f7010ec99f2ae7c1ed03a</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2021-10-08 19:36:46</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2021-10-08 12:36:46">ec32aa02078f7010ec99f2ae7c1ed03a</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-10-08 19:36:46</sys_created_on>
+                        <sys_id>2432aa02078f7010ec99f2ae7c1ed03d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-10-08 19:36:46</sys_updated_on>
+                        <value>category</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2021-10-08 12:36:46">ec32aa02078f7010ec99f2ae7c1ed03a</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-10-08 19:36:46</sys_created_on>
+                        <sys_id>2832aa02078f7010ec99f2ae7c1ed03c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-10-08 19:36:46</sys_updated_on>
+                        <value>Essential goods [Sandwicher]</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>render_title</name>
+                        <portal_section display_value="Created 2021-10-08 12:36:46">ec32aa02078f7010ec99f2ae7c1ed03a</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-10-08 19:36:46</sys_created_on>
+                        <sys_id>2c32aa02078f7010ec99f2ae7c1ed03b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-10-08 19:36:46</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2021-10-08 12:36:46">ec32aa02078f7010ec99f2ae7c1ed03a</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-10-08 19:36:46</sys_created_on>
+                        <sys_id>6032aa02078f7010ec99f2ae7c1ed03b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-10-08 19:36:46</sys_updated_on>
+                        <value>a34ffdb107437010ec99f2ae7c1ed09f</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_link</name>
+                        <portal_section display_value="Created 2021-10-08 12:36:46">ec32aa02078f7010ec99f2ae7c1ed03a</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-10-08 19:36:46</sys_created_on>
+                        <sys_id>6432aa02078f7010ec99f2ae7c1ed03c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-10-08 19:36:46</sys_updated_on>
+                        <value>com.glideapp.servicecatalog_category_view.do?v=1&amp;sysparm_parent=a34ffdb107437010ec99f2ae7c1ed09f&amp;sysparm_catalog=7200b9b507037010ec99f2ae7c1ed074&amp;sysparm_catalog_view=catalog_Sandwicher</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2021-10-08 12:36:46">ec32aa02078f7010ec99f2ae7c1ed03a</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-10-08 19:36:46</sys_created_on>
+                        <sys_id>6832aa02078f7010ec99f2ae7c1ed03b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-10-08 19:36:46</sys_updated_on>
+                        <value>com.glideapp.servicecatalog.RenderCategory</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_link_class</name>
+                        <portal_section display_value="Created 2021-10-08 12:36:46">ec32aa02078f7010ec99f2ae7c1ed03a</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-10-08 19:36:46</sys_created_on>
+                        <sys_id>a032aa02078f7010ec99f2ae7c1ed03c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-10-08 19:36:46</sys_updated_on>
+                        <value>category_title_link</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>macro</name>
+                        <portal_section display_value="Created 2021-10-08 12:36:46">ec32aa02078f7010ec99f2ae7c1ed03a</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-10-08 19:36:46</sys_created_on>
+                        <sys_id>a432aa02078f7010ec99f2ae7c1ed03b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-10-08 19:36:46</sys_updated_on>
+                        <value>sc_catalog_homepage_category_item</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>catalog_view</name>
+                        <portal_section display_value="Created 2021-10-08 12:36:46">ec32aa02078f7010ec99f2ae7c1ed03a</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-10-08 19:36:46</sys_created_on>
+                        <sys_id>e432aa02078f7010ec99f2ae7c1ed03d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-10-08 19:36:46</sys_updated_on>
+                        <value>catalog_Sandwicher</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>catalog</name>
+                        <portal_section display_value="Created 2021-10-08 12:36:46">ec32aa02078f7010ec99f2ae7c1ed03a</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-10-08 19:36:46</sys_created_on>
+                        <sys_id>ec32aa02078f7010ec99f2ae7c1ed03b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-10-08 19:36:46</sys_updated_on>
+                        <value>7200b9b507037010ec99f2ae7c1ed074</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>

@@ -20,7 +20,7 @@
             <dependent_value/>
             <element>u_request_type</element>
             <hint/>
-            <inactive>false</inactive>
+            <inactive>true</inactive>
             <label>Human Resources</label>
             <language>en</language>
             <name>x_58872_needit_needit</name>
@@ -31,9 +31,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>8fc14139078f3010ec99f2ae7c1ed05a</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-10-07 17:57:07</sys_updated_on>
+            <sys_updated_on>2021-10-08 17:30:11</sys_updated_on>
             <value>human resources</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -41,6 +41,46 @@
             <element>u_request_type</element>
             <hint/>
             <inactive>false</inactive>
+            <label>Login</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-08 18:10:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>607e4202074f7010ec99f2ae7c1ed0ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-08 18:10:29</sys_updated_on>
+            <value>login</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_request_type</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Report an Issue</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-08 17:30:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9e35028a070f7010ec99f2ae7c1ed037</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-08 18:10:29</sys_updated_on>
+            <value>report an issue</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_request_type</element>
+            <hint/>
+            <inactive>true</inactive>
             <label>Facilities</label>
             <language>en</language>
             <name>x_58872_needit_needit</name>
@@ -51,9 +91,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>4fc14139078f3010ec99f2ae7c1ed05d</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-10-07 17:57:07</sys_updated_on>
+            <sys_updated_on>2021-10-08 17:30:11</sys_updated_on>
             <value>facilities</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -61,6 +101,46 @@
             <element>u_request_type</element>
             <hint/>
             <inactive>false</inactive>
+            <label>Something is Broken</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-08 18:10:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>747e4202074f7010ec99f2ae7c1ed0b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-08 18:10:29</sys_updated_on>
+            <value>something is broken</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_request_type</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Technical Assistance</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-08 17:30:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9235028a070f7010ec99f2ae7c1ed03b</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-08 18:10:29</sys_updated_on>
+            <value>technical assistance</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_request_type</element>
+            <hint/>
+            <inactive>true</inactive>
             <label>Legal</label>
             <language>en</language>
             <name>x_58872_needit_needit</name>
@@ -71,9 +151,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>0fc14139078f3010ec99f2ae7c1ed05f</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-10-07 17:57:07</sys_updated_on>
+            <sys_updated_on>2021-10-08 17:30:11</sys_updated_on>
             <value>legal</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -81,6 +161,26 @@
             <element>u_request_type</element>
             <hint/>
             <inactive>false</inactive>
+            <label>Network Issues</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-08 18:10:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>307e4202074f7010ec99f2ae7c1ed0b3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-08 18:10:29</sys_updated_on>
+            <value>network issues</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_request_type</element>
+            <hint/>
+            <inactive>true</inactive>
             <label>Sandwich</label>
             <language>en</language>
             <name>x_58872_needit_needit</name>
@@ -91,9 +191,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>cbc14139078f3010ec99f2ae7c1ed061</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-10-07 17:57:07</sys_updated_on>
+            <sys_updated_on>2021-10-08 17:30:11</sys_updated_on>
             <value>sandwich</value>
         </sys_choice>
     </sys_choice>
