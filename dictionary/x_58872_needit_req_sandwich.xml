@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="sc_request" label="REQ Sandwich" max_length="40" name="x_58872_needit_req_sandwich" type="collection"/>
-</database>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="NeedIt">4cf5452107073010ec99f2ae7c1ed03f</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>REQ Sandwiches</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_58872_needit_req_sandwich</name>
+        <order>600</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_58872_needit.req_sandwich_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-07 22:00:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5979b1bd07037010ec99f2ae7c1ed0b3</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>REQ Sandwiches</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_app_module_5979b1bd07037010ec99f2ae7c1ed0b3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-08 04:16:11</sys_updated_on>
+        <timeline_page/>
+        <title>REQ Sandwiches</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>9aa94794db32130052e3f70fbf9619ac</instance_id>
+        <instance_name>dev61555</instance_name>
+        <name>sys_app_module_5979b1bd07037010ec99f2ae7c1ed0b3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="NeedIt">4cf5452107073010ec99f2ae7c1ed03f</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>REQ Sandwiches</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_58872_needit_req_sandwich</name><order>600</order><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_58872_needit.req_sandwich_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-10-07 22:00:18</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>5979b1bd07037010ec99f2ae7c1ed0b3</sys_id><sys_mod_count>3</sys_mod_count><sys_name>REQ Sandwiches</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_app_module_5979b1bd07037010ec99f2ae7c1ed0b3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-10-08 04:16:11</sys_updated_on><timeline_page/><title>REQ Sandwiches</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>206884412</payload_hash>
+        <record_name>REQ Sandwiches</record_name>
+        <reverted_from/>
+        <source>f2624d2507c33010ec99f2ae7c1ed0d5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-08 04:16:11</sys_created_on>
+        <sys_id>637f033907077010ec99f2ae7c1ed091</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17c5e1d9ea00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-08 04:16:11</sys_updated_on>
+        <type>Module</type>
+        <update_guid>6b7f0339e707701082492640faaa1390</update_guid>
+        <update_guid_history>6b7f0339e707701082492640faaa1390:206884412,514e4fb59d0770107d325ecf59fc5c30:-1716731622,51fd4fb5fc077010e1c0cea05d19a345:206884412,d179b1bd0a0370104d7e24bc865fe1b5:929829072</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="REQ Sandwiches">25d4973d07077010ec99f2ae7c1ed019</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-08 04:39:32</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>23da1ce48f4445e887d313e824ff3f24</sys_id>
+        <sys_metadata>5979b1bd07037010ec99f2ae7c1ed0b3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>REQ Sandwiches</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_app_module_5979b1bd07037010ec99f2ae7c1ed0b3</sys_update_name>
+        <sys_update_version display_value="sys_app_module_5979b1bd07037010ec99f2ae7c1ed0b3">637f033907077010ec99f2ae7c1ed091</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-08 04:39:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
