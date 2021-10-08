@@ -2,7 +2,7 @@
     <pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE">
         <dashboard display_value="catalog_sandwicher">cd9079b507037010ec99f2ae7c1ed000</dashboard>
         <home>false</home>
-        <homepage display_value="catalog_sandwicher">4f207db507037010ec99f2ae7c1ed04a</homepage>
+        <homepage/>
         <order>1</order>
         <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
         <sys_created_by>admin</sys_created_by>
